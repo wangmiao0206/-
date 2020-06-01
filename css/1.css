@@ -1,0 +1,342 @@
+#entirty{
+			margin: 0 auto;
+			height: 3000px;
+			}
+.logo{
+		padding-right: 60px;
+		float: left;
+		}
+			.fr {
+    			float: right;
+			}
+			.fl{
+				float: left;
+			}
+			#top{
+				
+				width: 1200px;
+    			text-align: center;
+    			margin: 0 auto;
+    			
+    			
+			}
+			#logo{
+				font-size:20px;
+				font-family:Microsoft YaHei;
+				font-weight:bold;
+				color:rgba(0,164,255,1);
+				display: block;
+			}
+			.nav {
+    			margin-top: 42px;
+			}
+
+			.nav li {
+  				float: left;
+   				padding: 0 21px;
+			}
+			.nav a {
+				padding-bottom: 12px;
+				font-size:18px;
+				font-family:Microsoft YaHei;
+				font-weight:400;
+				color:rgba(5,5,5,1);
+				}
+			.nav a:hover{
+				border-bottom:2px solid rgba(0,163,255, 1);
+			}
+
+			.form * {
+    			float: left;
+    			position: relative;
+    			bottom: 45px;
+    			
+				}
+			#person{
+				font-size:14px;
+				font-family:Microsoft YaHei;
+				font-weight:400;
+				color:rgba(101,101,101,1);
+				float: right;
+				position: relative;
+    			left: 300px;
+    			bottom: 35px;
+			}
+
+			.form .search {
+   	 			width: 360px;
+    			height: 20px;
+    			border: 1px solid rgba(0,163,255, 1);
+    			padding: 9px;
+    			position: relative;
+    			right: 200px;
+				}
+
+			.form .submit {
+    			width: 50px;
+    			height: 40px;
+    			border: 1px solid rgba(0,163,2555, 1);
+    			border-left: none; 
+    			background: rgba(0,163,255, 1) url(./img/search.png) no-repeat center center;
+    			position: relative;
+    			right: 200px;
+			}
+			#liulan a{
+				font-size:14px;
+				font-family:Microsoft YaHei;
+				font-weight:400;
+				color:rgba(255,255,255,1);
+				line-height:44px;
+				
+			}
+			#liulan a:hover{
+				color:rgba(0,180,255,1);
+			}
+			#liulan{
+				width:190px;
+				height:420px;
+				background-color: rgba(0,0,0,0.3);
+				position: relative;
+    			left: 360px;
+			}
+			#banner{
+				background:rgba(27,3,107,1) url(img/banner1.png) no-repeat center;
+			}
+			#middle{
+				width: 1200px;
+				margin: 0 auto;
+				padding-top: 8px;
+				box-shadow:0px 2px 2px 0px rgba(118,118,118,0.2);
+			}
+
+			li.first {
+    			padding-left: 20px;
+				}
+
+			#last{
+    			border: none;
+    			padding-right: 20px;
+    		}
+    		.zhong a{
+    			font-size:16px;
+				font-family:Microsoft YaHei;
+				font-weight:bold;
+				color:rgba(0,0,0,1);
+				padding-right: 30px;
+    		}
+    		.zhong a:hover{
+    			color:rgba(0,163,255,1);
+    		}
+    		.zhong li{
+    			float: left;
+    			margin: 20px 35px 20px 8px; 
+    			border-right:2px solid rgba(128,128,128, 1);
+    		}
+    		#xiugai{
+    			float: right;
+    			position: relative;
+    			bottom: 40px;
+    			right: 30px;
+    		}
+    		#xiugai a{
+    			color:rgba(0,163,255,1);
+    		}
+    		.pick{
+    			width: 1200px;
+    			margin: 0 auto;
+    		}
+    		.mei{
+    			float: left;
+    			width: 228px;
+    			height: 270px;
+    			margin:10px 6px; 
+box-shadow:0px 2px 4px 0px rgba(118,118,118,0.5);
+    		}
+    		.toubu{
+    			height: 36px;
+    		}
+    		.toubu p{
+    			display: block;
+    		}
+    		.chakan{
+    			float: right;
+    			font-size:12px;
+    			position: relative;
+    			bottom: 20px;
+    			right: 80px;
+				font-family:Microsoft YaHei;
+				font-weight:400;
+				color:rgba(165,165,165,1);
+    		}
+    		.mei img{
+    			width: 228px;
+    			height: 155px;
+    		}
+    		.mei p{
+    			width:185px;
+				height:34px;
+				font-size:14px;
+				font-family:Microsoft YaHei;
+				font-weight:400;
+				color:rgba(5,5,5,1);
+				line-height:20px;
+				margin:0 auto;
+				padding-top: 20px;
+    		}
+    		.a1{
+    			font-size:20px;
+				font-family:Microsoft YaHei;
+				font-weight:400;
+				color:rgba(72,72,72,1);
+    		}
+    		#z1{
+    			font-size:12px;
+				font-family:Microsoft YaHei;
+				font-weight:400;
+				color:rgba(255,123,45,1);
+    		}
+    		#z2{
+    			font-size:12px;
+				font-family:Microsoft YaHei;
+				font-weight:400;
+				color:rgba(128,128,128,1);
+    		}
+			#z3{
+				bottom: 80px;
+			}
+    		#ling a{
+				font-size:16px;
+				font-family:Microsoft YaHei;
+				font-weight:400;
+				color:rgba(0,163,255,1);
+    		}
+    		#te{
+    			height: 120px;
+    			padding-top: 600px;
+    			position: relative;
+    			top: 60px;
+    		}
+    		#ling{
+				position: relative;
+				bottom: 65px;
+				left: 400px;	
+    		}
+			#dalao{
+				margin: 0 auto;
+				width: 1200px;
+			}
+			.dalao{
+				float: left;
+				padding:20px 6px; 
+				
+			}
+			#zuo{
+				padding-top: 20px;
+			}
+			.dalao img{
+				width: 228px;
+				height: 320px;
+			}
+			.zishu{
+				width: 228px;
+				height: 122px;
+				background:rgba(0,0,0,0.5);
+			}
+			.jianjie{
+				width:175px;
+				height:53px;
+				font-size:12px;
+				font-family:Microsoft YaHei;
+				font-weight:400;
+				color:rgba(255,255,255,1);
+				line-height:20px;
+				padding-top: 25px;
+			}
+			.zishu{
+				position: relative;
+				bottom: 127px;
+			}
+			.zishu p{
+				margin: 0 auto;
+			}
+			.z4{
+				font-size:18px;
+				font-family:Microsoft YaHei;
+				font-weight:bold;
+				color:rgba(255,255,255,1);
+				line-height:20px;
+			}
+			.z5{
+				font-family:Microsoft YaHei;
+				font-weight:400;
+				color:rgba(255,255,255,1);
+				line-height:20px;	
+			}
+			.zishu span{
+				position: relative;
+				top: 15px;
+				left: 25px;
+			}
+			#bottom{
+				height: 471px;
+				width: 1400px;
+				margin-top: 150px;
+			}
+			#biao{
+				padding-top: 250px;
+				padding-left: 200px;
+				
+				font-size:36px;
+				font-family:Microsoft YaHei;
+				font-weight:bold;
+				color:rgba(0,163,255,1);
+				line-height:21px;
+
+			}
+			#mu{
+				font-size:12px;
+				font-family:SimSun;
+				font-weight:400;
+				color:rgba(101,101,101,1);
+				line-height:18px;
+				position: relative;
+				left: 200px;
+				top: 30px;
+			}
+			#xiazai{
+				font-size:16px;
+				font-family:Microsoft YaHei;
+				font-weight:400;
+				color:rgba(0,163,255,1);
+				line-height:18px;
+				border: 1px solid rgb(0,163,255); 
+				position: relative;
+				top: 50px;
+				left: 200px;
+			}
+			.mo{
+				height: 150px;
+				width: 100px;
+				float: left;
+				padding-left:120px; 
+				position: relative;
+				bottom: 90px;
+				right: 60px;
+			}
+			#bottom li{
+				font-size:12px;
+			font-family:SimSun;
+			font-weight:400;
+			color:rgba(51,51,51,1);
+			line-height:21px;
+			}
+			.z6{
+				font-size:16px;
+				font-family:Microsoft YaHei;
+				font-weight:400;
+				color:rgba(51,51,51,1);
+				line-height:21px;
+			}
+			.shouge{
+				padding-bottom: 25px;
+			}
